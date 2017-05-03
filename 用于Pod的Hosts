@@ -1,0 +1,13 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+117.18.237.29   ocsp.digicert.com
+117.18.237.29   ocsp.digicert.com
+117.18.237.29   ocsp.digicert.com
+54.222.162.169  data.actiontj.fruitday.com
